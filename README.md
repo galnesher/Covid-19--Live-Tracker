@@ -27,7 +27,7 @@ charts js|
 
 ## Setup
 ---
-### Demo Live: https://covid-19livetracker.web.app/
+### Demo Live: https://covid-19-tracker-e819c.web.app/
 <br>
 
 After you clone this repo to your desktop, go to its root directory and run npm install to install its dependencies.
