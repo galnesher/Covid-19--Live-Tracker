@@ -10,14 +10,10 @@
 
 
 <br>
-## Screenshots
-#### Home Page :
-![Home page](https://res.cloudinary.com/gal-nesher/image/upload/v1629289990/cnhua4w9sqfauricr6x1.png)
 
 #### Admin pages:
 ![Home page](https://res.cloudinary.com/gal-nesher/image/upload/v1629290130/i7lfpsaluofhv00khw90.png)
-![Admin Dashboard](https://res.cloudinary.com/gal-nesher/image/upload/v1629289976/z3wohreizltdkmpoz2r3.png)
-![Orders](https://res.cloudinary.com/gal-nesher/image/upload/v1629289976/zfupsfrhndhcxrcttmqy.png)
+
 
 
 
