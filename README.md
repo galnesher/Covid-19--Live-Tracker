@@ -21,7 +21,7 @@ react-chartjs-2: ^2.11.1|
 react-dom: ^16.2.0 | 
 material UI|
 charts js|
-![Home page](https://res.cloudinary.com/gal-nesher/image/upload/v1629289990/cnhua4w9sqfauricr6x1.png)
+![Home page]()
 
 
 
@@ -29,7 +29,7 @@ charts js|
 ---
 ### Demo Live: https://covid-19-tracker-e819c.web.app/
 <br>
-![Home Page](https://res.cloudinary.com/gal-nesher/image/upload/v1629295750/l8bpepfbm4pyjgbdjkrl.png)
+![Home Page](https://res.cloudinary.com/gal-nesher/image/upload/v1629289990/cnhua4w9sqfauricr6x1.png)
 
 After you clone this repo to your desktop, go to its root directory and run npm install to install its dependencies.
 >cd client <br>
