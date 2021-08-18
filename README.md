@@ -1,5 +1,5 @@
 # Covid Live Tracker
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://covid-19livetracker.web.app/)
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://covid-19-tracker-e819c.web.app/)
 ---
 >Implented with React JS (Hooks, Material UI, Charts js).
 
