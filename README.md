@@ -12,7 +12,7 @@
 <br>
 
 #### Admin pages:
-![Home page](https://res.cloudinary.com/gal-nesher/image/upload/v1629290130/i7lfpsaluofhv00khw90.png)
+![Home page](https://res.cloudinary.com/gal-nesher/image/upload/v1629295750/l8bpepfbm4pyjgbdjkrl.png)
 
 
 
